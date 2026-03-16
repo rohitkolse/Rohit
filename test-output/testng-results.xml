@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-09T10:08:53 IST" name="FlightBookingSuite" finished-at="2026-03-09T10:08:58 IST" duration-ms="5497">
+  <suite started-at="2026-03-13T10:31:00 IST" name="Default suite" finished-at="2026-03-13T10:31:08 IST" duration-ms="8051">
     <groups>
     </groups>
-    <test started-at="2026-03-09T10:08:53 IST" name="FlightBookingTest" finished-at="2026-03-09T10:08:58 IST" duration-ms="5497">
+    <test started-at="2026-03-13T10:31:00 IST" name="Default test" finished-at="2026-03-13T10:31:08 IST" duration-ms="8051">
       <class name="tests.FlightBookingTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlightBookingTest@618b19ad]" started-at="2026-03-09T10:08:53 IST" name="setup" finished-at="2026-03-09T10:08:56 IST" duration-ms="3120" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlightBookingTest@618b19ad]" started-at="2026-03-13T10:31:00 IST" name="setup" finished-at="2026-03-13T10:31:06 IST" duration-ms="5541" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="bookFlightTest()[pri:0, instance:tests.FlightBookingTest@618b19ad]" started-at="2026-03-09T10:08:56 IST" name="bookFlightTest" finished-at="2026-03-09T10:08:58 IST" duration-ms="2178" status="PASS">
+        <test-method signature="bookFlightTest()[pri:0, instance:tests.FlightBookingTest@618b19ad]" started-at="2026-03-13T10:31:06 IST" name="bookFlightTest" finished-at="2026-03-13T10:31:08 IST" duration-ms="2303" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookFlightTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlightBookingTest@618b19ad]" started-at="2026-03-09T10:08:58 IST" name="tearDown" finished-at="2026-03-09T10:08:58 IST" duration-ms="164" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlightBookingTest@618b19ad]" started-at="2026-03-13T10:31:08 IST" name="tearDown" finished-at="2026-03-13T10:31:08 IST" duration-ms="171" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- tests.FlightBookingTest -->
-    </test> <!-- FlightBookingTest -->
-  </suite> <!-- FlightBookingSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

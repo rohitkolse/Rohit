@@ -15,7 +15,6 @@ public class FlightBookingTest extends BaseTest {
     public void bookFlightTest() {
 
         HomePage home = new HomePage(driver);
-
         home.selectDepartureCity("Boston");
         home.selectDestinationCity("London");
         home.clickFindFlights();
